@@ -2,4 +2,4 @@
 
 - 💻 CS @ UQ
 - 🚀 Founder @ PURESORT
-- 🌱 Startups, robotics, photography
+- 🌱 startups, robotics, product
